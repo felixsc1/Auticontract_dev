@@ -3,3 +3,6 @@ tasks:
       echo 'TODO: build project'
     command: |
       echo 'TODO: start app'
+vscode:
+  extensions:
+    - exbenp.prettier-vscode
